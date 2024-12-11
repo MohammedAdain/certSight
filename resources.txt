@@ -1,0 +1,36 @@
+- https://www.youtube.com/watch?v=xhi5Q_wL9i0
+  Kailash Nadh on using hacking with Postgres for dungbeetle
+
+- https://stackoverflow.com/questions/7943233/fast-way-to-discover-the-row-count-of-a-table-in-postgresql
+  Row count in postgres tables
+
+- https://stackoverflow.com/questions/12206600/how-to-speed-up-insertion-performance-in-postgresql
+  How to speed up inserts
+
+- https://stackoverflow.com/questions/8144002/use-binary-copy-table-from-with-psycopg2/8150329#8150329
+  COPY FROM ... WITH BINARY
+
+
+MISC
+----
+
+Insert Time Issue
+-----------------
+
+*.canary613568eb8edf.cvj6pa.c19.kafka.us-east-1.amazonaws.com
+
+DB Name
+com
+
+Table Name
+amazonaws.com
+
+Query Time Issue
+----------------
+
+TS=0 TTL=10 CN1: *.google.com
+TS=2 TTL=10 CN2: mail.google.com
+
+1. Is this an anamoly?
+2. Is this because they are adding more security?
+
